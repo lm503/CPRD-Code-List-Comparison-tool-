@@ -1,0 +1,9 @@
+# this folder contains a python code for comparison of two CORD Aurum codelists in CSV format. 
+
+instructions from code:
+# using CODEBROWSER save your code list as text file, open in excel and save as a CSV file after changing the SNOMED coloumn to a 'Id' and the descriptive terms file to 'term' (lowercase)
+# now you can run the code after swapping out the file paths to where you desire
+# you may have to edit the comaprison file columns to 'Id' and 'term' depending where you sourced it from
+# the output_id file is the most useful in my work.
+
+# you will need python installed and pandas package installed.
