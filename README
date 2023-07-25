@@ -8,4 +8,5 @@ instructions from code:
 
 # you will need python installed and pandas package installed.
 
-The V2 file was added 25/07/23 and when run the output file contains just the term and id and the file 2 ids are the unique ids lacking from your codelist (according to file1 being original codelist and file2 being comparator)
+The V2 file was added 25/07/23 and when run the output file contains just the term and id and the file 2 ids are the unique ids lacking from your codelist 
+(according to file1 being original codelist and file2 being comparator in this case)
