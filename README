@@ -1,4 +1,4 @@
-# this folder contains a python code for comparison of two CORD Aurum codelists in CSV format. 
+# this folder contains a python code for comparison of two CPRD Aurum codelists in CSV format. 
 
 instructions from code:
 # using CODEBROWSER save your code list as text file, open in excel and save as a CSV file after changing the SNOMED coloumn to a 'Id' and the descriptive terms file to 'term' (lowercase)
